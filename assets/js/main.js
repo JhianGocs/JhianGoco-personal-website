@@ -58,4 +58,4 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 sr.reveal('.skill-item',{interval: 100});
 sr.reveal('.skills_icon',{interval: 100, delay: 200});
 sr.reveal('.certifications_img',{interval: 300});
-sr.reveal('.section-title, .contact__info', {interval: 200});
+sr.reveal('.section-title, .contact__info', {interval: 300});
